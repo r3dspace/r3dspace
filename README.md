@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=C32633)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=C32633)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=C32633)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=C32633)
 ![](https://img.shields.io/badge/Cloud-Hetzner-informational?style=flat&logo=hetzner&logoColor=white&color=C32633)
 
 <!-- links to your social media accounts -->
