@@ -2,9 +2,9 @@
 <p align="left">I'm a sys-admin based out of Germany working as an second and third level network engineer. I create, maintain and update networks all day long. I'm passionate about side projects and helping other admins improve their craft and networks. Check out my work and come chat with me on Discord.</p>
 
 ## 🌎 Social & Guides
-🔗 [Website (COMMING SOON)](https://r3dspace.xyz)</br>
+🔗 [Website](https://r3dspace.xyz)</br>
 🔗 [Guides (COMMING SOON)](https://wiki.r3dspace.xyz)</br>
-🔗 [Discord (COMMING SOON)](https://dc.r3dspace.xyz)</br>
+🔗 [Discord](https://dc.spicydragon.net)</br>
 
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=C32633)
