@@ -4,7 +4,7 @@
 ## 🌎 Social & Guides
 🔗 [Website](https://r3dspace.xyz)</br>
 🔗 [Discord](https://dc.spicydragon.net)</br>
-🔗 [Guides (COMMING SOON)](https://wiki.r3dspace.xyz)</br>
+🔗 [Guides](https://r3dspace.github.io)</br>
 
 ## 🧰 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=C32633)
