@@ -21,3 +21,5 @@
 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[![r3dspace's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3dspace)](https://github.com/anuraghazra/github-readme-stats)
