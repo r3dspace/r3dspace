@@ -11,14 +11,14 @@
 
 ### 👋 Hi, I'm r3dspace :
 </br>
-<p class="tb lr" align="center"><b>I'm a sys-admin based out of Germany working as an second and third level network engineer. I create, maintain and update networks all day long. I'm passionate about side projects and helping other admins improve their craft and networks. Check out my work and come chat with me on Discord.<b/><p/>
+<p align="center"><b>I'm a sys-admin based out of Germany working as an second and third level network engineer. I create, maintain and update networks all day long. I'm passionate about side projects and helping other admins improve their craft and networks. Check out my work and come chat with me on Discord.<b/><p/>
 </br>
 
 ---
 
 ### 🛒 Get in touch : 
 </br>
-<div class="tb" align="center">
+<div align="center">
     <img src="https://discord.c99.nl/widget/theme-4/259769264192356354.png">
 </div>
 </br>
@@ -27,7 +27,7 @@
 
 ### 🧰 Skills & Tools :
 </br>
-<div class="tb" align="center">
+<div align="center">
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" title="Powershell" /></code>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
@@ -45,7 +45,7 @@
 
 ### 📊 GitHub stats :
 </br>
-<div class="tb" align="center">
+<div align="center">
     <a href="https://github.com/BabyEntchen"><img alt="r3dspaces's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r3dspace&show_icons=true&bg_color=00000000&title_color=f1f1f1&text_color=8491a0&icon_color=ff3f4c&border_color=f1f1f1&border_radius=8" height="192px"/></a>
 </div>
 </br>
