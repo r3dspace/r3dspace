@@ -46,6 +46,6 @@
 ### 📊 GitHub stats :
 </br>
 <div align="center">
-    <a href="https://github.com/BabyEntchen"><img alt="r3dspaces's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r3dspace&show_icons=true&bg_color=00000000&title_color=f1f1f1&text_color=8491a0&icon_color=ff3f4c&border_color=f1f1f1&border_radius=8" height="192px"/></a>
+    <a href="https://github.com/BabyEntchen"><img alt="r3dspaces's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r3dspace&show_icons=true&bg_color=00000000&title_color=f1f1f1&text_color=8491a0&icon_color=ff3f4c&hide_border=true" height="192px"/></a>
 </div>
 </br>
