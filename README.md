@@ -1,14 +1,3 @@
-<style>
-  .tb {
-    padding-top: 1.3em;
-    padding-bottom: 1.3em;
-  }
-  .lr {
-    padding-left: 4em;
-    padding-right: 4em;
-  }
-</style>
-
 <div id="header" align="center">
     <img src="https://i.imgur.com/rM8HIZo.png" width="175"/>
 </div>
@@ -21,18 +10,23 @@
 ---
 
 ### 👋 Hi, I'm r3dspace :
+</br>
 <p class="tb lr" align="center"><b>I'm a sys-admin based out of Germany working as an second and third level network engineer. I create, maintain and update networks all day long. I'm passionate about side projects and helping other admins improve their craft and networks. Check out my work and come chat with me on Discord.<b/><p/>
+</br>
 
 ---
 
 ### 🛒 Get in touch : 
+</br>
 <div class="tb" align="center">
     <img src="https://discord.c99.nl/widget/theme-4/259769264192356354.png">
 </div>
+</br>
 
 ---
 
 ### 🧰 Skills & Tools :
+</br>
 <div class="tb" align="center">
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash" /></code>
 	<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" title="Powershell" /></code>
@@ -45,10 +39,13 @@
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
 	<img height="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 </div>
+</br>
 
 ---
 
 ### 📊 GitHub stats :
+</br>
 <div class="tb" align="center">
     <a href="https://github.com/BabyEntchen"><img alt="r3dspaces's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=r3dspace&show_icons=true&bg_color=00000000&title_color=f1f1f1&text_color=8491a0&icon_color=ff3f4c&border_color=f1f1f1&border_radius=8" height="192px"/></a>
 </div>
+</br>
