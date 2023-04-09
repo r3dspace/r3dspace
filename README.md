@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://i.imgur.com/rM8HIZo.png" width="175"/>
 </div>
+
 <div align="center">
     <a href="https://discord.spicydragon.net">
         <img src="https://img.shields.io/discord/548582339090055180?color=ff3f4c&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
@@ -14,7 +15,13 @@
 
 ### 👋 Hi, I'm r3dspace :
 </br>
+
 <p align="center"><b>I'm a sys-admin based out of Germany working as an second and third level network engineer. I create, maintain and update networks all day long. I'm passionate about side projects and helping other admins improve their craft and networks. Check out my work and come chat with me on Discord.<b/><p/>
+<div align="center">
+	<a href="https://visitcount.itsvg.in">
+		<img src="https://komarev.com/ghpvc/?username=r3dspace&color=ff3f4c&style=for-the-badge&logo=" />
+	</a>
+</div>
 </br>
 
 ---
